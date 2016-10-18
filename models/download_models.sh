@@ -5,9 +5,9 @@
 
 if [ $1 == '--demo' ]
 then
-  URL='https://doc-0k-5g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ckv834bkjv3mph3pp341d45bg4jmt8pp/1472248800000/05018003348500916163/*/0BzEcTtT1A2ILcDZnU2lyVGV6TE0?e=download'
+  URL='http://amos.csr.uky.edu/modelzoo/deephorizon/deephorizon_single.zip'
 else
-  URL='https://doc-10-5g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/2m02fctjabc3jmo3mo1fqta8hr5nbj3l/1472248800000/05018003348500916163/*/0BzEcTtT1A2ILb2QzTkVHLXBiREE?e=download'
+  URL='http://amos.csr.uky.edu/modelzoo/deephorizon/deephorizon.zip'
 fi
   
 echo "Downloading..."
